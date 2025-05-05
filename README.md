@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habib Khan
-- 👀 I’m a FrontEnd developer focusing on React Native and developing cross platform applications (android/ ios).
+- 👀 I’m a FrontEnd developer focusing on React Native / ReactJS and developing cross platform applications (android/ ios) and web applications.
 - 🌱 I’m currently working with Sankey Solutions from 2023.
 - 📫 How to reach me .. u can contact me via email hk6632521@gmail.com.
 
